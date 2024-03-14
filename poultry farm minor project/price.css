@@ -1,0 +1,29 @@
+.hi h1{
+    color: #1a821d;
+}
+.hi p{
+    color: #1a821d;
+}
+.hi img{
+   height: 128px;
+   width: 128px;
+}
+.tablei table th{
+    color:#1a821d;
+}
+.gohome a{
+    
+    background:#1a821d;
+    border:none;
+    padding:10px 50px;
+    margin:30px 0;
+    border-radius:30px;
+    text-transform:capitalize;
+    box-shadow: 0 10px 16px 1px rgba(174, 199, 251, 1);
+    text-decoration: none;
+    color:white;
+    font-family: "Lucida Bright";
+    display: flex;
+    gap: 32px;
+    width: 32px;
+  }

@@ -1,0 +1,74 @@
+.choice{
+   
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    display: flex;
+}
+
+body {
+ 
+   font-size: large;
+    background-attachment:fixed;
+    background-position:cover;
+        margin: auto;
+        width: 50%;
+        border: 8px solid rgb(242, 248, 242);
+        padding: 10px;
+        background: url("sky.jpeg") center center;
+
+  }
+.name{
+    font-size: 32px;
+    width:80px;
+    height:100px;
+    color: white;
+    
+}
+body {
+   
+    color: rgb(248, 242, 242);
+  }
+.add{
+    width:80px;
+    height:100px;
+}
+.phn{
+    width:80px;
+    height:100px;
+}
+.mail{
+    width:80px;
+    height:100px;
+}
+input{
+    width: 200px;
+    height: 30px;
+}
+.dp{
+    font-size: 24px;
+}
+.buttonbox button{
+    font-size: 16px;
+    text-transform: uppercase;
+    border: 2px;
+    outline: none;
+    padding: 8px 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    background-color: rgb(249, 246, 246);
+    color: rgb(2, 0, 0);
+    font-weight: 600;
+    font-style: normal;
+}
+.buttonbox button a{
+    text-decoration: none;
+    color: black;
+    font-family: "Lucida Bright";
+   
+}
+
+mark {
+    background-color:black;
+    color:white;
+  }
